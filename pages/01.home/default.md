@@ -1,3 +1,8 @@
+---
+title: 'Actual People For Actual People (AP4AP.org) - Business/Operations/Product Plan - Introduction'
+menu: 'Actual People For Actual People (AP4AP.org) - Business/Operations/Product Plan - Introduction'
+---
+
 # Actual People For Actual People (AP4AP.org) - Business/Operations/Product Plan - Introduction
 
 ## Executive Summary for AP4AP
